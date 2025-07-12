@@ -1,0 +1,1 @@
+This project focused on designing and implementing a ServiceNow-based solution tailored to streamline IT services and administrative processes within an educational organization (like a college or university). The system aimed to digitize and automate various service requests, incident management, student support, and faculty workflows.
